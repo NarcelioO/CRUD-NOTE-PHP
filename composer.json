@@ -1,0 +1,15 @@
+{
+    "name": "narce/laracast",
+    "autoload": {
+        "psr-4": {
+            "Narce\\Laracast\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Narcelio",
+            "email": "narcelio.d.oliveira@gmail.com"
+        }
+    ],
+    "require": {}
+}
